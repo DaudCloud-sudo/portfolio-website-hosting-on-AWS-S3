@@ -128,7 +128,9 @@ By default, objects (HTML, CSS, JS files) are private. To make them public:
 
 By following these steps, you have successfully hosted a static website on AWS S3. This method is cost-effective and scalable for hosting static websites.
 
-## Links
+# Connect with Me
 
-- [AWS Management Console](https://aws.amazon.com/console/)
-- [Portfolio Code Repository](https://github.com/DaudCloud-sudo/portfolio-website-hosting-on-AWS-S3) *(Replace with your actual link)*
+- [GitHub](https://github.com/DaudCloud-sudo)
+- [LinkedIn](https://www.linkedin.com/in/shahzaib-daud-computer-engineer/)
+- [Medium](https://medium.com/@s.daud)
+- [Facebook](https://www.facebook.com/shahzaibdaud42/)
