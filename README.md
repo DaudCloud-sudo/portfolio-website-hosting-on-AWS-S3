@@ -51,7 +51,8 @@ Go to the AWS Management Console: [Manage AWS Resources - AWS Management Console
 - If you already have an AWS account, sign in.
 - If you don't have an AWS account, create one. AWS provides detailed instructions for creating an account.
 
-![AWS Sign In](images/aws-sign-in.png)
+![image](https://github.com/user-attachments/assets/c20c22b2-4c9e-4b69-a60a-818613fc7050)
+
 
 ### Step 3: Secure Your AWS Account
 
@@ -65,7 +66,8 @@ For additional security:
 2. Use the search bar to search for "S3".
 3. Click on "S3" to access the S3 Dashboard.
 
-![AWS S3 Search](images/aws-s3-search.png)
+![image](https://github.com/user-attachments/assets/bd2e1a96-0fd8-44f8-b4c7-f6476b1764f0)
+
 
 ### Step 5: Create an S3 Bucket
 
@@ -77,9 +79,11 @@ For additional security:
    - **Public Access**: Untick the block all public access to make the bucket public.
    - **Bucket Versioning**: Enable versioning to keep multiple versions of an object in one bucket.
 
-![Create S3 Bucket](images/create-s3-bucket.png)
-
 3. Click on "Create bucket".
+4. After creation, navigate to the Bucket section and you will see your newly created bucket.
+
+![image](https://github.com/user-attachments/assets/b004d414-27ab-4c56-9f3b-a720100a94d8)
+
 
 ### Step 6: Upload Website Content
 
@@ -87,7 +91,7 @@ For additional security:
 2. Click on "Upload".
 3. Upload all your website files (HTML, CSS, JS, images, etc.).
 
-![Upload Files to S3](images/upload-files-s3.png)
+![image](https://github.com/user-attachments/assets/d5a37e5a-788d-4870-a118-417852742e92)
 
 ### Step 7: Configure S3 Bucket for Static Website Hosting
 
@@ -99,7 +103,7 @@ For additional security:
    - **Hosting type**: Host a static website
    - **Index document**: Enter `index.html`
 
-![Static Website Hosting](images/static-website-hosting.png)
+![image](https://github.com/user-attachments/assets/d9a79912-84a5-41d3-a460-031a761fec6d)
 
 5. Save the settings.
 
@@ -112,7 +116,7 @@ By default, objects (HTML, CSS, JS files) are private. To make them public:
 3. Click on "Actions" and select "Make public using ACL".
 4. Confirm the action.
 
-![Make Objects Public](images/make-objects-public.png)
+![image](https://github.com/user-attachments/assets/1eb94cbf-7ba9-46c6-bcb0-d3640207ac72)
 
 ## Viewing Your Website
 
@@ -120,29 +124,14 @@ By default, objects (HTML, CSS, JS files) are private. To make them public:
 2. Scroll down to the "Static website hosting" section.
 3. Note the endpoint URL provided. This is your live website URL.
 4. Open the URL in a browser to view your hosted website.
+5. Wohoo, your website is live.
 
-## Conclusion
+![image](https://github.com/user-attachments/assets/ea6abe92-a6df-426a-b1d1-5f12e470b1cb)
+
 
 By following these steps, you have successfully hosted a static website on AWS S3. This method is cost-effective and scalable for hosting static websites.
 
 ## Links
 
 - [AWS Management Console](https://aws.amazon.com/console/)
-- [Portfolio Code Repository](https://github.com/yourusername/portfolio) *(Replace with your actual link)*
-
-## Screenshots
-
-### AWS Management Console
-![AWS Management Console](images/aws-console.png)
-
-### S3 Dashboard
-![S3 Dashboard](images/s3-dashboard.png)
-
-### Create Bucket
-![Create Bucket](images/create-bucket.png)
-
-### Static Website Hosting Configuration
-![Static Website Hosting](images/static-website-hosting.png)
-
-### Make Objects Public
-![Make Objects Public](images/make-public.png)
+- [Portfolio Code Repository](https://github.com/DaudCloud-sudo/portfolio-website-hosting-on-AWS-S3) *(Replace with your actual link)*
