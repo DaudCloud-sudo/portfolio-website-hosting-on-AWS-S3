@@ -16,9 +16,6 @@ Welcome to my personal project repository where I’m hosting my portfolio websi
   - [Step 7: Configure S3 Bucket for Static Website Hosting](#step-7-configure-s3-bucket-for-static-website-hosting)
   - [Step 8: Make Objects Public](#step-8-make-objects-public)
 - [Viewing Your Website](#viewing-your-website)
-- [Conclusion](#conclusion)
-- [Links](#links)
-- [Screenshots](#screenshots)
 
 ## Project Overview
 
@@ -124,7 +121,7 @@ By default, objects (HTML, CSS, JS files) are private. To make them public:
 2. Scroll down to the "Static website hosting" section.
 3. Note the endpoint URL provided. This is your live website URL.
 4. Open the URL in a browser to view your hosted website.
-5. Wohoo, your website is live.
+5. Wohoo, my website is live.
 
 ![image](https://github.com/user-attachments/assets/ea6abe92-a6df-426a-b1d1-5f12e470b1cb)
 
