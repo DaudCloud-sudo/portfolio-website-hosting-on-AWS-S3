@@ -35,6 +35,7 @@ Here’s a brief overview of the project's structure:
 - **`certificates-degrees-achievements/`**: This folder contains all the certs and achievements of mine.
 - **`resume.pdf/`**: This is my resume to get accessed from the website.
 
+
 ## Setup and Deployment
 
 To get this site up and running on AWS S3, follow these steps:
@@ -43,7 +44,7 @@ To get this site up and running on AWS S3, follow these steps:
 
 Go to the AWS Management Console: [Manage AWS Resources - AWS Management Console](https://aws.amazon.com/console/).
 
-![AWS Management Console](images/aws-console.png)
+![image](https://github.com/user-attachments/assets/bd31eaa7-9474-4952-b9a9-d3549d4cc90d)
 
 ### Step 2: Sign In or Create an AWS Account
 
