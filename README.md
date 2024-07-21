@@ -32,6 +32,11 @@ Here’s a brief overview of the project's structure:
 - **`certificates-degrees-achievements/`**: This folder contains all the certs and achievements of mine.
 - **`resume.pdf/`**: This is my resume to get accessed from the website.
 
+**`If you would like to view the directory structure of this portfolio website, you can download the ZIP folder from the repository.`**
+  
+  **Download ZIP Folder:** [Link to ZIP File](https://github.com/DaudCloud-sudo/portfolio-website-hosting-on-AWS-S3/blob/main/daud-portfolio-website%20content.zip)
+
+
 
 ## Setup and Deployment
 
@@ -121,12 +126,24 @@ By default, objects (HTML, CSS, JS files) are private. To make them public:
 2. Scroll down to the "Static website hosting" section.
 3. Note the endpoint URL provided. This is your live website URL.
 4. Open the URL in a browser to view your hosted website.
-5. Wohoo, my website is live.
+5. Wohoo, the website is live.
 
 ![image](https://github.com/user-attachments/assets/ea6abe92-a6df-426a-b1d1-5f12e470b1cb)
 
-
 By following these steps, you have successfully hosted a static website on AWS S3. This method is cost-effective and scalable for hosting static websites.
+
+### Future Enhancements
+
+In the future, I plan to utilize additional AWS services to further enhance the functionality and user experience of my portfolio website:
+
+- **Route 53**: For custom domain management and DNS configuration.
+- **Amazon CloudFront**: To deliver content with low latency and high transfer speeds.
+- **AWS Certificate Manager (ACM)**: To manage SSL/TLS certificates for secure HTTPS connections.
+- **AWS Lambda**: For serverless form submissions and other backend logic.
+- **AWS API Gateway**: To create and manage APIs for enhanced functionality.
+- **Amazon DynamoDB**: For scalable, high-performance database solutions.
+
+These enhancements will help make the portfolio website more dynamic, user-friendly, and robust, providing a better experience for visitors and showcasing more advanced cloud-based solutions.
 
 # Connect with Me
 
