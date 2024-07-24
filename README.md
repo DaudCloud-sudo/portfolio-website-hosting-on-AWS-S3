@@ -128,7 +128,7 @@ By default, objects (HTML, CSS, JS files) are private. To make them public:
 4. Open the URL in a browser to view your hosted website.
 5. Wohoo, the website is live.
 
-Here is the link to it: http://daud-personal-site.s3-website-us-east-1.amazonaws.com/
+Here is the link to it: (http://sdaudportfolio.com.s3-website-us-east-1.amazonaws.com/#)
 
 ![image](https://github.com/user-attachments/assets/ea6abe92-a6df-426a-b1d1-5f12e470b1cb)
 
